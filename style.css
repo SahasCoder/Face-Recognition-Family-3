@@ -1,0 +1,44 @@
+.body1{
+    background-image: url(https://wallpaperaccess.com/full/3935997.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.div1{
+    background-color:rgba(255, 255, 255, 0.479);
+    margin-top: 250px;
+}
+
+.buttonFirst{
+    font-size:medium;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+body{
+    background-image: url(https://www.xmple.com/wallpaper/linear-gradient-blue-1920x1080-c2-00ffff-0000ff-a-15-f-14.svg);
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    height: 300px;
+    width: 350px;
+}
+
+.name_of_objects , #result_object_name , #result_accuracy{
+    color: orangered;
+}
+
+.divColor{
+    background-color: rgba(255, 255, 255, 0.233);
+    border-color: black;
+    border-style: solid;
+}
